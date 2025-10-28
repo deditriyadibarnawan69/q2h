@@ -1,0 +1,5 @@
+experimental:
+  plugins:
+    q2h:
+      moduleName: "github.com/deditriyadibarnawan69/q2h"
+      version: "v0.0.1"
